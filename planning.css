@@ -1,0 +1,21 @@
+#trash{
+	color:red;
+	font-size: 30px
+}
+
+#edit{
+	color: grey;
+	font-size: 30px
+}
+
+#add{
+	color: green;
+	font-size: 30px
+}
+
+a{
+	text-decoration: none;
+	color: black;
+	
+}
+
